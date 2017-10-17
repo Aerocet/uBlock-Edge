@@ -1,4 +1,4 @@
-Read first: <https://github.com/nikrolls/uBlock-Edge/blob/master/CONTRIBUTING.md>
+Filter issues **MUST NOT** be reported here. Read first: <https://github.com/gorhill/uBlock/blob/master/CONTRIBUTING.md>
 
 ### Describe the issue
 
@@ -14,12 +14,12 @@ Read first: <https://github.com/nikrolls/uBlock-Edge/blob/master/CONTRIBUTING.md
 ### Steps for anyone to reproduce the issue
 
 1. Be as detailed as possible:
-2. Because we are not looking over your shoulder and
-3. Keep in mind: Nobody can read your mind.
+1. Because we are not looking over your shoulder and
+1. Keep in mind: Nobody can read your mind.
 
 ### Your settings
 
-[If you fail to provide this info, the issue will be marked as invalid. Lists all settings which differ from default]
+[If you fail to provide this info, I will mark the issue as invalid. Lists all settings which differs from default settings]
 
 - OS/version: 
 - Browser/version: 
