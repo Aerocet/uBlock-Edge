@@ -14,6 +14,6 @@ deploy:
   file: dist/build/uBlock0.${BROWSER}.${EXT}
   skip_cleanup: true
   on:
-    repo: gorhill/uBlock
+    repo: Aerocet/ublock-Edge
     tags: true
     all_branches: true
